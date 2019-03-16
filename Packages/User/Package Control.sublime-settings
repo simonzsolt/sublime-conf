@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Dockerfile Syntax Highlighting",
+		"ESLint",
+		"ESLint Fix",
+		"FileIcons",
+		"Git",
+		"GitGutter",
+		"JavaScript & NodeJS Snippets",
+		"jsonnet syntax",
+		"Monokai Dark",
+		"Monokai++",
+		"Nodejs",
+		"Package Control",
+		"PackageResourceViewer",
+		"RON",
+		"Theme - City Lights",
+		"Vue Syntax Highlight"
+	]
+}

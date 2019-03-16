@@ -1,0 +1,1352 @@
+{
+	"folder_history":
+	[
+		"/home/jota/Projects/pong-rs",
+		"/home/jota/Projects/zenhub",
+		"/home/jota/Projects/wp-catz/wordpress",
+		"/home/jota/Projects/go-project",
+		"/home/jota/Projects/my-react-app/config",
+		"/home/jota/Projects/my-react-app",
+		"/home/jota/Projects/bootcamp-client",
+		"/home/jota/Projects/temp-front",
+		"/home/jota/Projects/risingstack-bootcamp-v2",
+		"/home/jota/Projects/prime-js",
+		"/home/jota/Projects/prime-pyth",
+		"/home/jota/Projects/prime",
+		"/home/jota/Projects/WIP-VUE-bootcamp",
+		"/home/jota/Projects/docker",
+		"/home/jota/Projects/koa",
+		"/home/jota/Projects/telekom",
+		"/home/jota/Projects/sorted",
+		"/home/jota/Projects/addon",
+		"/home/jota/Projects/cpp",
+		"/home/jota/Projects/addon/prod",
+		"/home/jota/Projects/nodeCpp",
+		"/home/jota/Projects/cv"
+	],
+	"last_version": 3176,
+	"last_window_id": 57,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"chan",
+						"channels"
+					],
+					[
+						"cahn",
+						"chanels"
+					],
+					[
+						"re",
+						"res1"
+					],
+					[
+						"s",
+						"sqrt"
+					],
+					[
+						"prod",
+						"production"
+					],
+					[
+						"cons",
+						"console.log"
+					],
+					[
+						"console",
+						"console.time"
+					],
+					[
+						"cos",
+						"console.log"
+					],
+					[
+						"con",
+						"console.log"
+					],
+					[
+						"crea",
+						"create_dict"
+					],
+					[
+						"test",
+						"test-db"
+					],
+					[
+						"mod",
+						"mod\tmod … { … }"
+					],
+					[
+						"file",
+						"file_path"
+					],
+					[
+						"thread",
+						"thread_id"
+					],
+					[
+						"thre",
+						"thread_id"
+					],
+					[
+						"gto",
+						"got_lucky"
+					],
+					[
+						"got",
+						"got_lucky"
+					],
+					[
+						"th",
+						"thread_id"
+					],
+					[
+						"main",
+						"main_iterator"
+					],
+					[
+						"mai",
+						"main_iterator"
+					],
+					[
+						"w",
+						"while\twhile … { … }"
+					],
+					[
+						"tr",
+						"true"
+					],
+					[
+						"u",
+						"u32"
+					],
+					[
+						"c",
+						"current"
+					],
+					[
+						"wri",
+						"write_file"
+					],
+					[
+						"is",
+						"is_prime"
+					],
+					[
+						"prin",
+						"println\tprintln!(…)"
+					],
+					[
+						"di",
+						"div\tTag"
+					],
+					[
+						"pt",
+						"println\tprintln!(…)"
+					],
+					[
+						"co",
+						"counter"
+					],
+					[
+						"pri",
+						"println\tprintln!(…)"
+					],
+					[
+						"prit",
+						"print\tprint!(…)"
+					],
+					[
+						"node",
+						"node_modules"
+					],
+					[
+						"inpu",
+						"inputFile"
+					],
+					[
+						"sorte",
+						"sortedTicketStr"
+					],
+					[
+						"tick",
+						"ticketArr"
+					],
+					[
+						"sort",
+						"sortTicket"
+					],
+					[
+						"out",
+						"outputFile"
+					],
+					[
+						"tic",
+						"sortTicket"
+					],
+					[
+						"ti",
+						"ticket"
+					],
+					[
+						"res",
+						"resultsArr"
+					],
+					[
+						"S",
+						"String"
+					],
+					[
+						"Number",
+						"NumberValue"
+					],
+					[
+						"ar",
+						"args"
+					],
+					[
+						"drw",
+						"drawArr"
+					],
+					[
+						"draw",
+						"drawArr"
+					],
+					[
+						"In",
+						"Integer"
+					],
+					[
+						"end",
+						"endl"
+					],
+					[
+						"hit",
+						"hitCounter"
+					],
+					[
+						"t",
+						"testArr"
+					],
+					[
+						"to",
+						"toString"
+					],
+					[
+						"rea",
+						"readInput"
+					],
+					[
+						"for",
+						"forEach"
+					],
+					[
+						"play",
+						"players"
+					],
+					[
+						"pla",
+						"players"
+					],
+					[
+						"Pl",
+						"players"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"fix",
+						"ESLint Fix: Fix this file"
+					],
+					[
+						"es",
+						"ESLint"
+					],
+					[
+						"settin",
+						"Preferences: Settings"
+					],
+					[
+						"sett",
+						"Preferences: Settings"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"jsx",
+						"Set Syntax: JSX"
+					],
+					[
+						"dock",
+						"Set Syntax: Dockerfile"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"use",
+						"UI: Select Theme"
+					],
+					[
+						"men",
+						"View: Toggle Menu"
+					],
+					[
+						"convert to s",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"f",
+						"ESLint Fix: Fix this file"
+					],
+					[
+						"fi",
+						"ESLint Fix: Fix this file"
+					],
+					[
+						"convert to sp",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"use stri",
+						"Snippet: use strict"
+					],
+					[
+						"vue",
+						"Set Syntax: Vue Component"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"rust",
+						"Set Syntax: Rust"
+					],
+					[
+						"git st",
+						"Git: Status"
+					],
+					[
+						"json",
+						"Set Syntax: JSON"
+					],
+					[
+						"prv",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"theme",
+						"UI: Select Theme"
+					],
+					[
+						"colo",
+						"UI: Select Color Scheme"
+					],
+					[
+						"usee",
+						"UI: Select Theme"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"meu",
+						"View: Toggle Menu"
+					],
+					[
+						"inden",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"latex",
+						"Set Syntax: LaTeX"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"tex",
+						"Set Syntax: TeX"
+					],
+					[
+						"git",
+						"Set Syntax: Git Log"
+					],
+					[
+						"build",
+						"Build With: Xetex"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"color ",
+						"UI: Select Color Scheme"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/jota/Projects/zenhub/app/utils/third-party-integration/slackUtils.js",
+				"/home/jota/Projects/wp-catz/wordpress/wp-includes/cache.php",
+				"/home/jota/Projects/wp-catz/wordpress/wp-includes/class-wp-user.php",
+				"/home/jota/Projects/wp-catz/wordpress/wp-load.php",
+				"/home/jota/Projects/wp-catz/wordpress/wp-login.php",
+				"/home/jota/Projects/wp-catz/wordpress/wp-mail.php",
+				"/home/jota/Projects/wp-catz/wordpress/wp-includes/pluggable.php",
+				"/home/jota/Projects/bootcamp-client/package.json",
+				"/home/jota/Projects/bootcamp-client/dist/index.html",
+				"/home/jota/Projects/bootcamp-client/public/index.html",
+				"/home/jota/Projects/bootcamp-client/webpack.config.js",
+				"/home/jota/Projects/bootcamp-client/dist/bundle.js",
+				"/home/jota/Projects/bootcamp-client/dist/dist/index.html",
+				"/home/jota/Projects/prime-js/prime.js",
+				"/home/jota/Projects/prime-js/server.js",
+				"/home/jota/Projects/prime-js/package.json",
+				"/home/jota/Projects/prime-js/exports/primes_201901201006.csv",
+				"/home/jota/Projects/prime-js/.gitignore",
+				"/home/jota/Projects/prime-js/dbConfig.js",
+				"/home/jota/Projects/prime-js/db.js",
+				"/home/jota/Projects/prime-js/seed/1-first-ten-primes.js",
+				"/home/jota/Projects/prime-js/scripts/seed-db.js",
+				"/home/jota/Projects/prime-js/migrations/1-create-primes.js",
+				"/home/jota/Projects/prime-js/scripts/migrate-db.js",
+				"/home/jota/Projects/prime-pyth/data",
+				"/home/jota/Projects/prime-pyth/main.py",
+				"/home/jota/Projects/prime/Cargo.toml",
+				"/home/jota/Projects/prime/data.txt",
+				"/home/jota/Projects/prime/src/prime.rs",
+				"/home/jota/Projects/prime/src/main.rs",
+				"/home/jota/Projects/prime/src/local_files.rs",
+				"/home/jota/Projects/prime/src/multi.rs",
+				"/home/jota/Projects/prime/list_primes.txt",
+				"/home/jota/Projects/risingstack-bootcamp-v2/.env",
+				"/home/jota/Projects/WIP-VUE-bootcamp/src/components/js/website.js",
+				"/home/jota/Projects/WIP-VUE-bootcamp/src/components/templates/website.vue",
+				"/home/jota/Projects/prime/bar.txt",
+				"/home/jota/Projects/prime/main.rc",
+				"/home/jota/Projects/risingstack-bootcamp-v2/.gitignore",
+				"/home/jota/Projects/risingstack-bootcamp-v2/node_modules/.bin/nodemon",
+				"/home/jota/Projects/risingstack-bootcamp-v2/package.json",
+				"/home/jota/.config/sublime-text-3/Packages/Theme - Default/adaptive/Adaptive.sublime-theme",
+				"/home/jota/Projects/koa/router.js",
+				"/home/jota/Projects/koa/logger.js",
+				"/home/jota/Projects/koa/app.js",
+				"/home/jota/Projects/koa/package.json",
+				"/home/jota/Projects/telekom/app.js",
+				"/home/jota/Projects/telekom/hitCounter.js",
+				"/home/jota/Projects/sorted/sort.js",
+				"/home/jota/Projects/sorted/small_input.txt",
+				"/home/jota/Projects/sorted/10m-v2_sorted.txt",
+				"/home/jota/Projects/telekom/sort.js",
+				"/home/jota/Projects/telekom/updateResult.js",
+				"/home/jota/Projects/addon/app.js",
+				"/home/jota/Projects/addon/winners.cpp",
+				"/home/jota/Projects/telekom/README",
+				"/home/jota/Projects/cpp/build.sh",
+				"/home/jota/Projects/cpp/lottery.cpp",
+				"/home/jota/Projects/cpp/README",
+				"/home/jota/Projects/addon/README",
+				"/home/jota/Projects/addon/prod/package.json",
+				"/home/jota/Projects/addon/lottery.sh",
+				"/home/jota/Projects/addon/binding.gyp",
+				"/home/jota/Projects/addon/winners.cc",
+				"/home/jota/Projects/nodeCpp/main.cc",
+				"/home/jota/Projects/addon/package.json",
+				"/home/jota/Projects/cpp/read.cpp",
+				"/home/jota/Projects/addon/small_input.txt",
+				"/home/jota/Projects/addon/array.cc",
+				"/home/jota/Projects/nodeCpp/package.json",
+				"/home/jota/Projects/nodeCpp/lottery.js",
+				"/home/jota/Projects/telekom/prod/lottery_min.js",
+				"/home/jota/Projects/telekom/lottery.js",
+				"/home/jota/Projects/telekom/medium_input.txt",
+				"/home/jota/Projects/telekom/readline.js",
+				"/home/jota/Projects/telekom/lottery_BAK.js",
+				"/home/jota/Projects/telekom/stream.js",
+				"/home/jota/Projects/telekom/large_input.txt",
+				"/home/jota/Projects/telekom/package.json",
+				"/home/jota/Projects/telekom/debug.js",
+				"/home/jota/Projects/telekom/small_input.txt",
+				"/home/jota/Projects/cv/simon_zsolt_letter_en.tex",
+				"/home/jota/Projects/cv/simon_zsolt_display_en.tex",
+				"/home/jota/.config/sublime-text-3/Packages/User/Xelatex.sublime-build",
+				"/home/jota/Projects/cv/letter_hu.tex",
+				"/home/jota/Projects/cv/simon_zsolt_display_hu.tex",
+				"/home/jota/.config/sublime-text-3/Packages/User/Xetex.sublime-build"
+			],
+			"find":
+			{
+				"height": 39.0
+			},
+			"find_in_files":
+			{
+				"height": 126.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 39.0
+			},
+			"input":
+			{
+				"height": 50.0
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 250.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/Xelatex.sublime-build",
+			"replace":
+			{
+				"height": 74.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"slack",
+						"app/utils/third-party-integration/slackUtils.js"
+					],
+					[
+						"customu",
+						"app/utils/third-party-integration/customUtils.js"
+					],
+					[
+						"nodemon",
+						"node_modules/.bin/nodemon"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 392.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"chan",
+						"channels"
+					],
+					[
+						"cahn",
+						"chanels"
+					],
+					[
+						"re",
+						"res1"
+					],
+					[
+						"s",
+						"sqrt"
+					],
+					[
+						"prod",
+						"production"
+					],
+					[
+						"cons",
+						"console.log"
+					],
+					[
+						"console",
+						"console.time"
+					],
+					[
+						"cos",
+						"console.log"
+					],
+					[
+						"con",
+						"console.log"
+					],
+					[
+						"crea",
+						"create_dict"
+					],
+					[
+						"test",
+						"test-db"
+					],
+					[
+						"mod",
+						"mod\tmod … { … }"
+					],
+					[
+						"file",
+						"file_path"
+					],
+					[
+						"thread",
+						"thread_id"
+					],
+					[
+						"thre",
+						"thread_id"
+					],
+					[
+						"gto",
+						"got_lucky"
+					],
+					[
+						"got",
+						"got_lucky"
+					],
+					[
+						"th",
+						"thread_id"
+					],
+					[
+						"main",
+						"main_iterator"
+					],
+					[
+						"mai",
+						"main_iterator"
+					],
+					[
+						"w",
+						"while\twhile … { … }"
+					],
+					[
+						"tr",
+						"true"
+					],
+					[
+						"u",
+						"u32"
+					],
+					[
+						"c",
+						"current"
+					],
+					[
+						"wri",
+						"write_file"
+					],
+					[
+						"is",
+						"is_prime"
+					],
+					[
+						"prin",
+						"println\tprintln!(…)"
+					],
+					[
+						"di",
+						"div\tTag"
+					],
+					[
+						"pt",
+						"println\tprintln!(…)"
+					],
+					[
+						"co",
+						"counter"
+					],
+					[
+						"pri",
+						"println\tprintln!(…)"
+					],
+					[
+						"prit",
+						"print\tprint!(…)"
+					],
+					[
+						"node",
+						"node_modules"
+					],
+					[
+						"inpu",
+						"inputFile"
+					],
+					[
+						"sorte",
+						"sortedTicketStr"
+					],
+					[
+						"tick",
+						"ticketArr"
+					],
+					[
+						"sort",
+						"sortTicket"
+					],
+					[
+						"out",
+						"outputFile"
+					],
+					[
+						"tic",
+						"sortTicket"
+					],
+					[
+						"ti",
+						"ticket"
+					],
+					[
+						"res",
+						"resultsArr"
+					],
+					[
+						"S",
+						"String"
+					],
+					[
+						"Number",
+						"NumberValue"
+					],
+					[
+						"ar",
+						"args"
+					],
+					[
+						"drw",
+						"drawArr"
+					],
+					[
+						"draw",
+						"drawArr"
+					],
+					[
+						"In",
+						"Integer"
+					],
+					[
+						"end",
+						"endl"
+					],
+					[
+						"hit",
+						"hitCounter"
+					],
+					[
+						"t",
+						"testArr"
+					],
+					[
+						"to",
+						"toString"
+					],
+					[
+						"rea",
+						"readInput"
+					],
+					[
+						"for",
+						"forEach"
+					],
+					[
+						"play",
+						"players"
+					],
+					[
+						"pla",
+						"players"
+					],
+					[
+						"Pl",
+						"players"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/jota/Projects/pong-rs/textures/pong_spritesheet.ron",
+					"settings":
+					{
+						"buffer_size": 285,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ron",
+						"Set Syntax: RON"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"fix",
+						"ESLint Fix: Fix this file"
+					],
+					[
+						"es",
+						"ESLint"
+					],
+					[
+						"settin",
+						"Preferences: Settings"
+					],
+					[
+						"sett",
+						"Preferences: Settings"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"jsx",
+						"Set Syntax: JSX"
+					],
+					[
+						"dock",
+						"Set Syntax: Dockerfile"
+					],
+					[
+						"use",
+						"UI: Select Theme"
+					],
+					[
+						"men",
+						"View: Toggle Menu"
+					],
+					[
+						"convert to s",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"f",
+						"ESLint Fix: Fix this file"
+					],
+					[
+						"fi",
+						"ESLint Fix: Fix this file"
+					],
+					[
+						"convert to sp",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"use stri",
+						"Snippet: use strict"
+					],
+					[
+						"vue",
+						"Set Syntax: Vue Component"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"rust",
+						"Set Syntax: Rust"
+					],
+					[
+						"git st",
+						"Git: Status"
+					],
+					[
+						"json",
+						"Set Syntax: JSON"
+					],
+					[
+						"prv",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"theme",
+						"UI: Select Theme"
+					],
+					[
+						"colo",
+						"UI: Select Color Scheme"
+					],
+					[
+						"usee",
+						"UI: Select Theme"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"meu",
+						"View: Toggle Menu"
+					],
+					[
+						"inden",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"latex",
+						"Set Syntax: LaTeX"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"tex",
+						"Set Syntax: TeX"
+					],
+					[
+						"git",
+						"Set Syntax: Git Log"
+					],
+					[
+						"build",
+						"Build With: Xetex"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"color ",
+						"UI: Select Color Scheme"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/jota/Projects/pong-rs",
+				"/home/jota/Projects/pong-rs/target",
+				"/home/jota/Projects/pong-rs/target/release",
+				"/home/jota/Projects/pong-rs/textures"
+			],
+			"file_history":
+			[
+				"/home/jota/Projects/zenhub/app/utils/third-party-integration/slackUtils.js",
+				"/home/jota/Projects/wp-catz/wordpress/wp-includes/cache.php",
+				"/home/jota/Projects/wp-catz/wordpress/wp-includes/class-wp-user.php",
+				"/home/jota/Projects/wp-catz/wordpress/wp-load.php",
+				"/home/jota/Projects/wp-catz/wordpress/wp-login.php",
+				"/home/jota/Projects/wp-catz/wordpress/wp-mail.php",
+				"/home/jota/Projects/wp-catz/wordpress/wp-includes/pluggable.php",
+				"/home/jota/Projects/bootcamp-client/package.json",
+				"/home/jota/Projects/bootcamp-client/dist/index.html",
+				"/home/jota/Projects/bootcamp-client/public/index.html",
+				"/home/jota/Projects/bootcamp-client/webpack.config.js",
+				"/home/jota/Projects/bootcamp-client/dist/bundle.js",
+				"/home/jota/Projects/bootcamp-client/dist/dist/index.html",
+				"/home/jota/Projects/prime-js/prime.js",
+				"/home/jota/Projects/prime-js/server.js",
+				"/home/jota/Projects/prime-js/package.json",
+				"/home/jota/Projects/prime-js/exports/primes_201901201006.csv",
+				"/home/jota/Projects/prime-js/.gitignore",
+				"/home/jota/Projects/prime-js/dbConfig.js",
+				"/home/jota/Projects/prime-js/db.js",
+				"/home/jota/Projects/prime-js/seed/1-first-ten-primes.js",
+				"/home/jota/Projects/prime-js/scripts/seed-db.js",
+				"/home/jota/Projects/prime-js/migrations/1-create-primes.js",
+				"/home/jota/Projects/prime-js/scripts/migrate-db.js",
+				"/home/jota/Projects/prime-pyth/data",
+				"/home/jota/Projects/prime-pyth/main.py",
+				"/home/jota/Projects/prime/Cargo.toml",
+				"/home/jota/Projects/prime/data.txt",
+				"/home/jota/Projects/prime/src/prime.rs",
+				"/home/jota/Projects/prime/src/main.rs",
+				"/home/jota/Projects/prime/src/local_files.rs",
+				"/home/jota/Projects/prime/src/multi.rs",
+				"/home/jota/Projects/prime/list_primes.txt",
+				"/home/jota/Projects/risingstack-bootcamp-v2/.env",
+				"/home/jota/Projects/WIP-VUE-bootcamp/src/components/js/website.js",
+				"/home/jota/Projects/WIP-VUE-bootcamp/src/components/templates/website.vue",
+				"/home/jota/Projects/prime/bar.txt",
+				"/home/jota/Projects/prime/main.rc",
+				"/home/jota/Projects/risingstack-bootcamp-v2/.gitignore",
+				"/home/jota/Projects/risingstack-bootcamp-v2/node_modules/.bin/nodemon",
+				"/home/jota/Projects/risingstack-bootcamp-v2/package.json",
+				"/home/jota/.config/sublime-text-3/Packages/Theme - Default/adaptive/Adaptive.sublime-theme",
+				"/home/jota/Projects/koa/router.js",
+				"/home/jota/Projects/koa/logger.js",
+				"/home/jota/Projects/koa/app.js",
+				"/home/jota/Projects/koa/package.json",
+				"/home/jota/Projects/telekom/app.js",
+				"/home/jota/Projects/telekom/hitCounter.js",
+				"/home/jota/Projects/sorted/sort.js",
+				"/home/jota/Projects/sorted/small_input.txt",
+				"/home/jota/Projects/sorted/10m-v2_sorted.txt",
+				"/home/jota/Projects/telekom/sort.js",
+				"/home/jota/Projects/telekom/updateResult.js",
+				"/home/jota/Projects/addon/app.js",
+				"/home/jota/Projects/addon/winners.cpp",
+				"/home/jota/Projects/telekom/README",
+				"/home/jota/Projects/cpp/build.sh",
+				"/home/jota/Projects/cpp/lottery.cpp",
+				"/home/jota/Projects/cpp/README",
+				"/home/jota/Projects/addon/README",
+				"/home/jota/Projects/addon/prod/package.json",
+				"/home/jota/Projects/addon/lottery.sh",
+				"/home/jota/Projects/addon/binding.gyp",
+				"/home/jota/Projects/addon/winners.cc",
+				"/home/jota/Projects/nodeCpp/main.cc",
+				"/home/jota/Projects/addon/package.json",
+				"/home/jota/Projects/cpp/read.cpp",
+				"/home/jota/Projects/addon/small_input.txt",
+				"/home/jota/Projects/addon/array.cc",
+				"/home/jota/Projects/nodeCpp/package.json",
+				"/home/jota/Projects/nodeCpp/lottery.js",
+				"/home/jota/Projects/telekom/prod/lottery_min.js",
+				"/home/jota/Projects/telekom/lottery.js",
+				"/home/jota/Projects/telekom/medium_input.txt",
+				"/home/jota/Projects/telekom/readline.js",
+				"/home/jota/Projects/telekom/lottery_BAK.js",
+				"/home/jota/Projects/telekom/stream.js",
+				"/home/jota/Projects/telekom/large_input.txt",
+				"/home/jota/Projects/telekom/package.json",
+				"/home/jota/Projects/telekom/debug.js",
+				"/home/jota/Projects/telekom/small_input.txt",
+				"/home/jota/Projects/cv/simon_zsolt_letter_en.tex",
+				"/home/jota/Projects/cv/simon_zsolt_display_en.tex",
+				"/home/jota/.config/sublime-text-3/Packages/User/Xelatex.sublime-build",
+				"/home/jota/Projects/cv/letter_hu.tex",
+				"/home/jota/Projects/cv/simon_zsolt_display_hu.tex",
+				"/home/jota/.config/sublime-text-3/Packages/User/Xetex.sublime-build"
+			],
+			"find":
+			{
+				"height": 39.0
+			},
+			"find_in_files":
+			{
+				"height": 126.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/jota/Projects/pong-rs"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/jota/Projects/pong-rs/textures/pong_spritesheet.ron",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 285,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/RON/RON.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 39.0
+			},
+			"input":
+			{
+				"height": 50.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 250.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/Xelatex.sublime-build",
+			"position": "1,0,0,0,0,0,0,2560,1440,2560,1440",
+			"project": "",
+			"replace":
+			{
+				"height": 74.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"slack",
+						"app/utils/third-party-integration/slackUtils.js"
+					],
+					[
+						"customu",
+						"app/utils/third-party-integration/customUtils.js"
+					],
+					[
+						"nodemon",
+						"node_modules/.bin/nodemon"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 392.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 57,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
